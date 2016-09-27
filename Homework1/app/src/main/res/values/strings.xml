@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework1</string>
+    <string-array name="spinner">
+        <item> + </item>
+        <item> - </item>
+        <item> * </item>
+        <item> / </item>
+    </string-array>
+</resources>
